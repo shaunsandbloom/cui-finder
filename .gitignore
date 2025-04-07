@@ -1,0 +1,10 @@
+.DS_store
+.ipynb_checkpoints
+.venv
+.vscode
+build/
+cui_finder/__pycache__
+cui_finder/batch_tester.py
+cui_finder.egg-info/
+model/
+notebooks/
